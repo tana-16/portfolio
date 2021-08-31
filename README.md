@@ -19,10 +19,10 @@
 保育ママとして働きたい方々
 
 ## 設計書
-・ER図　　https://drive.google.com/file/d/1IdYWDw8FWHT3oJtXwe_j0ImybSl3o_VQ/view?usp=sharing
+・ER図は[こちら](　https://drive.google.com/file/d/1IdYWDw8FWHT3oJtXwe_j0ImybSl3o_VQ/view?usp=sharing)から
 
 ## チャレンジ要素一覧
-https://docs.google.com/spreadsheets/d/1Gs3cp38fJRVaXQQ3UKtXBbcc4iKfH23sS2HL6FSAVv0/edit?usp=sharing
+機能一覧は[こちら](https://docs.google.com/spreadsheets/d/1Gs3cp38fJRVaXQQ3UKtXBbcc4iKfH23sS2HL6FSAVv0/edit?usp=sharing)から
 
 ## 開発環境
 - OS：Linux(CentOS)
